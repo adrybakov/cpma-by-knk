@@ -1,3 +1,7 @@
+/*
+ * Sums two fractions
+ */
+
 #include <stdio.h>
 
 int main(void){

@@ -1,3 +1,7 @@
+/*
+ * Dsplays a float in several formats
+ */
+
 #include <stdio.h>
 
 int main(void){

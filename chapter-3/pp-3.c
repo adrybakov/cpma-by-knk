@@ -1,3 +1,7 @@
+/*
+ * ISBN analyser
+ */
+
 #include <stdio.h>
 
 int main(void){

@@ -1,3 +1,7 @@
+/*
+ * Format product information
+ */
+
 #include <stdio.h>
 
 int main(void){
@@ -14,7 +18,7 @@ int main(void){
     printf("Enter purchase date (mm/dd/yyyy): ");
     scanf("%d/%d/%d", &day, &month, &year);
 
-    printf("Item\tUnit\tPurchase\n\tPrice\tDate\n%-d\t$%7.2f\t%2.2d/%2.2d/%4.4d\n\n\n", item_number, unit_price, day, month, year);
+    printf("Item\tUnit\t\tPurchase\n\tPrice\t\tDate\n%-d\t$%7.2f\t%2.2d/%2.2d/%4.4d\n\n\n", item_number, unit_price, day, month, year);
     printf("Item     Unit         Purchase\n         Price        Date\n");
     printf("%-4d     $%7.2f     %2.2d/%2.2d/%4.4d\n", item_number, unit_price, day, month, year);
 

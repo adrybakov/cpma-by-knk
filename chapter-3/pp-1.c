@@ -1,3 +1,7 @@
+/*
+ * Convert the date's format
+ */
+
 #include <stdio.h>
 
 int main(void){

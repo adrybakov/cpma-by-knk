@@ -1,3 +1,7 @@
+/*
+ * Convert telephone number format
+ */
+
 #include <stdio.h>
 
 int main(void){
