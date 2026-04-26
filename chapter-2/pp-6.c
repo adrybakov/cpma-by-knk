@@ -1,3 +1,7 @@
+/*
+ * Compute the value of the polynomial using Horner's Rule
+ */
+
 #include <stdio.h>
 
 int main(void){

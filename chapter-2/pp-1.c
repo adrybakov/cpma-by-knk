@@ -1,3 +1,7 @@
+/*
+ * Print a check symbol
+ */
+
 #include <stdio.h>
 
 int main(void) {

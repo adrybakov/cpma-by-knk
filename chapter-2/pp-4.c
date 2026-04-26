@@ -1,3 +1,7 @@
+/*
+ * Computes amount of taxes (5%)
+ */
+
 #include <stdio.h>
 
 int main(void){

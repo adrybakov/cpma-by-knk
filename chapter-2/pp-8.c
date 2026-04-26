@@ -1,5 +1,8 @@
-#include <stdio.h>
+/*
+ * Calculate remaining balance on the loan
+ */
 
+#include <stdio.h>
 
 int main(void){
 

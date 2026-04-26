@@ -1,3 +1,7 @@
+/*
+ * Computes a bill's compositions
+ */
+
 #include <stdio.h>
 
 int main(void){

@@ -1,7 +1,11 @@
+/*
+ * Computes a volume of a sphere
+ */
+
 #include <stdio.h>
 
 #define RADIUS 10.0f
-#define PI 3.14159265359f
+#define PI 3.14159265359
 
 int main(void) {
     
@@ -12,7 +16,7 @@ int main(void) {
     volume_approx = 4 / 3 * PI * RADIUS * RADIUS * RADIUS;
 
     printf("Volume = %.8f\n", volume);
-    printf("Approximate volume = %.8f", volume_approx);
+    printf("Approximate volume = %.8f\n", volume_approx);
 
     return 0;
 }

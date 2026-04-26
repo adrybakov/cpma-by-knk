@@ -1,6 +1,10 @@
+/*
+ * Compute the volume of a shere
+ */
+
 #include <stdio.h>
 
-#define PI 3.14159265359f
+#define PI 3.1415926535f
 
 int main(void) {
     

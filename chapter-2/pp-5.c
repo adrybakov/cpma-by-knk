@@ -1,3 +1,7 @@
+/*
+ * Compute a value of the polynomial
+ */
+
 #include <stdio.h>
 
 int main(void){
